@@ -82,7 +82,7 @@ Tableau
 ### AREA SALES MANAGER - Jakarta, Indonesia - PT. Argha Karya Prima Industry - 2017-2018
 - Oversaw sales operations for the Greater Jakarta Area, consistently contributing to approximately 25% of the company's total monthly revenue.
 - Consistently achieved or exceeded monthly sales targets through strategic planning, adaptability, and proactive client engagement.
-- - Collaborated with the Product Development team by persuading clients to trial new products under development, gathering valuable feedback to inform product refinement.
+- Collaborated with the Product Development team by persuading clients to trial new products under development, gathering valuable feedback to inform product refinement.
 
 ### ACCOUNT OFFICER - Jakarta, Indonesia - Panin Bank - 2014-2017
 - Managed over 50 customers daily, delivering comprehensive banking services including credit loans, cash deposits, insurance products, and more, while consistently meeting tight submission deadlines in a high-pressure environment.

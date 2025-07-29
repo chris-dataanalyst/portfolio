@@ -47,6 +47,7 @@ Tableau
 - Performed comprehensive data cleaning in Excel: removed duplicates, standardized formats across columns.
 - Utilized Tableau to create visual dashboards, highlighting the top 15 car sales using grouping and sets.
 - Applied aggregation techniques with measure fields and transformed such as numeric car seating data into text format for compatibility in visualizations.
+- You can check the tableau dashboard [here](https://public.tableau.com/views/CarSalesDatainAustralia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Work Experience
 ### ASSISTANT DIRECTOR - Sukabumi, Indonesia - Sumber Waras Pharmacy	- 2020-Present

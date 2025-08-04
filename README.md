@@ -49,6 +49,11 @@ Tableau
 - Applied aggregation techniques with measure fields and transformed such as numeric car seating data into text format for compatibility in visualizations.
 - You can check the tableau dashboard [here](https://public.tableau.com/views/CarSalesDatainAustralia/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### COFFEE SALES – PERSONAL PROJECT - AUG 2025
+- Performed data cleaning in MySQL, including identifying and removing duplicate records, standardizing data types, and ensuring consistency across columns to enhance data quality and integrity.
+- Designed and created optimized tables in MySQL to restructure raw datasets, significantly improving data accessibility and efficiency for downstream analysis and visualization processes.
+- Developed interactive and insightful dashboards in Power BI by leveraging advanced features such as DAX measures, binning, and grouping techniques to present complex data in a clear, concise, and user-friendly manner, facilitating better business decision-making.
+
 ## Work Experience
 ### ASSISTANT DIRECTOR - Sukabumi, Indonesia - Sumber Waras Pharmacy	- 2020-Present
 - Oversee daily operations of the pharmacy, ensuring efficient workflow, accurate dispensing of prescriptions, and exceptional customer service.
